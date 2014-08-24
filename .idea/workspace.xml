@@ -77,19 +77,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="23" selection-start="29" selection-end="29" vertical-scroll-proportion="0.038751345" vertical-offset="0" max-vertical-offset="929">
+            <state line="2" column="1" selection-start="27" selection-end="27" vertical-scroll-proportion="-1.3584906" vertical-offset="0" max-vertical-offset="288">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="default.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/default.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="10" selection-start="361" selection-end="361" vertical-scroll-proportion="-15.428572" vertical-offset="0" max-vertical-offset="792">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="44" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+            <state line="2" column="48" selection-start="109" selection-end="109" vertical-scroll-proportion="0.073319755" vertical-offset="0" max-vertical-offset="982">
               <folding />
             </state>
           </provider>
@@ -111,13 +120,14 @@
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/controllers/PagesController.php" />
         <option value="$PROJECT_DIR$/app/views/layouts/home.blade.php" />
-        <option value="$PROJECT_DIR$/app/views/layouts/default.blade.php" />
         <option value="$PROJECT_DIR$/app/views/partials/nav.blade.php" />
         <option value="$PROJECT_DIR$/app/views/layouts/partials/nav.blade.php" />
         <option value="$PROJECT_DIR$/app/views/Pages/home.blade.php" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app/assets/sass/main.sass" />
+        <option value="$PROJECT_DIR$/app/assets/sass/main.scss" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/views/layouts/default.blade.php" />
       </list>
     </option>
   </component>
@@ -183,6 +193,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -215,7 +239,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistory" value="layout/def&#10;Pages&#10;routes.php" />
+    <property name="SearchEverywhereHistory" value="css/&#10;default&#10;layout/def&#10;Pages&#10;routes.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -339,23 +363,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/default.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="476" selection-end="476" vertical-scroll-proportion="0.6415094" vertical-offset="0" max-vertical-offset="954">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/partials/nav.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="14" selection-start="1524" selection-end="1524" vertical-scroll-proportion="0.7358491" vertical-offset="306" max-vertical-offset="1296">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Pages/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="393" selection-end="393" vertical-scroll-proportion="-11.571428" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>
@@ -367,16 +377,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/app/views/Pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="44" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+        <state line="9" column="5" selection-start="393" selection-end="393" vertical-scroll-proportion="-11.571428" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/default.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="10" selection-start="361" selection-end="361" vertical-scroll-proportion="-15.428572" vertical-offset="0" max-vertical-offset="792">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="29" selection-end="29" vertical-scroll-proportion="0.038751345" vertical-offset="0" max-vertical-offset="929">
+        <state line="2" column="1" selection-start="27" selection-end="27" vertical-scroll-proportion="-1.3584906" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="48" selection-start="109" selection-end="109" vertical-scroll-proportion="0.073319755" vertical-offset="0" max-vertical-offset="982">
           <folding />
         </state>
       </provider>

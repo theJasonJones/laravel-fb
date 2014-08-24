@@ -6,4 +6,5 @@ composer.lock
 .env.*.php
 .env.php
 .DS_Store
+workspace.xml
 Thumbs.db
