@@ -4,7 +4,7 @@
         <h1>Welcome to Larabook!</h1>
         <p>Welcome to the premier place to talk about Laravel with others. Why don't you sign up and see what all the fuss is about.
         <p>
-            <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">Sign Up!</a>
+            {{ link_to_route('register_path', 'Sign Up!', null, ['class' => 'btn btn-lg btn-primary']) }}
         </p>
     </div>
 @stop
