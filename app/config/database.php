@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => getenv('DB_HOST'),
-			'database'  => getenv('DB_NAME'),
-			'username'  => getenv('DB_USERNAME'),
-			'password'  => getenv('PASSWORD'),
+			'host'      => 'localhost',
+			'database'  => 'larabook',
+			'username'  => 'homestead',
+			'password'  => 'secret',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

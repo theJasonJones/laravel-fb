@@ -19,3 +19,5 @@ $I->seeRecord('users', [
     'username' => 'MaryJane',
     'email' => 'mj@example.com'
 ]);
+
+$I=>assertTrue

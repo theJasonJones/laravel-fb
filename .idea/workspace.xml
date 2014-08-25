@@ -23,13 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functional.suite.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="functional.suite.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/functional.suite.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <folding>
-                <marker date="1408925713000" expanded="true" signature="258:306" placeholder="enabled:" />
-              </folding>
+            <state line="8" column="59" selection-start="313" selection-end="313" vertical-scroll-proportion="0.29327902" vertical-offset="0" max-vertical-offset="982">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,7 +35,7 @@
       <file leaf-file-name="SignUpCept.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/functional/SignUpCept.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="7" selection-start="415" selection-end="415" vertical-scroll-proportion="-20.571428" vertical-offset="0" max-vertical-offset="972">
+            <state line="22" column="14" selection-start="547" selection-end="547" vertical-scroll-proportion="-28.285715" vertical-offset="0" max-vertical-offset="1044">
               <folding />
             </state>
           </provider>
@@ -70,15 +68,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegistrationController.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/RegistrationController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="55" selection-start="401" selection-end="401" vertical-scroll-proportion="0.6037736" vertical-offset="252" max-vertical-offset="1224">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/User.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,7 +80,7 @@
       <file leaf-file-name="create.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/registration/create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="690" selection-end="690" vertical-scroll-proportion="-17.357143" vertical-offset="306" max-vertical-offset="1296">
+            <state line="22" column="7" selection-start="690" selection-end="690" vertical-scroll-proportion="-27.642857" vertical-offset="18" max-vertical-offset="1296">
               <folding />
             </state>
           </provider>
@@ -118,16 +107,16 @@
         <option value="$PROJECT_DIR$/app/assets/sass/main.scss" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/app/views/layouts/default.blade.php" />
-        <option value="$PROJECT_DIR$/tests/functional.suite.yml" />
         <option value="$PROJECT_DIR$/env.testing.php" />
         <option value="$PROJECT_DIR$/.env.testing.php" />
         <option value="$PROJECT_DIR$/app/views/Pages/home.blade.php" />
         <option value="$PROJECT_DIR$/app/views/registration/create.blade.php" />
-        <option value="$PROJECT_DIR$/app/routes.php" />
-        <option value="$PROJECT_DIR$/tests/functional/SignUpCept.php" />
         <option value="$PROJECT_DIR$/app/controllers/RegistrationController.php" />
         <option value="$PROJECT_DIR$/app/models/User.php" />
         <option value="$PROJECT_DIR$/app/config/database.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/tests/functional/SignUpCept.php" />
+        <option value="$PROJECT_DIR$/tests/functional.suite.yml" />
       </list>
     </option>
   </component>
@@ -180,6 +169,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larabook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,46 +294,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larabook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larabook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larabook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larabook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -359,7 +322,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistory" value="create_u&#10;css/&#10;default&#10;layout/def&#10;Pages&#10;routes.php" />
+    <property name="SearchEverywhereHistory" value="&#10;create_u&#10;css/&#10;default&#10;layout/def&#10;Pages&#10;routes.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -504,15 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/functional.suite.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding>
-            <marker date="1408925713000" expanded="true" signature="258:306" placeholder="enabled:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env.local.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="2" selection-start="157" selection-end="157" vertical-scroll-proportion="0.26415095" vertical-offset="0" max-vertical-offset="954">
@@ -523,41 +477,6 @@
     <entry file="file://$PROJECT_DIR$/.env.testing.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="26" selection-start="129" selection-end="137" vertical-scroll-proportion="-7.714286" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Pages/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="394" selection-end="394" vertical-scroll-proportion="0.33962265" vertical-offset="0" max-vertical-offset="954">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/PagesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="-12.857142" vertical-offset="0" max-vertical-offset="576">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="3" selection-start="496" selection-end="496" vertical-scroll-proportion="-14.142858" vertical-offset="0" max-vertical-offset="936">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/registration/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="690" selection-end="690" vertical-scroll-proportion="-17.357143" vertical-offset="306" max-vertical-offset="1296">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/functional/SignUpCept.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="7" selection-start="415" selection-end="415" vertical-scroll-proportion="-20.571428" vertical-offset="0" max-vertical-offset="972">
           <folding />
         </state>
       </provider>
@@ -576,16 +495,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/RegistrationController.php">
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="55" selection-start="401" selection-end="401" vertical-scroll-proportion="0.6037736" vertical-offset="252" max-vertical-offset="1224">
+        <state line="73" column="35" selection-start="2144" selection-end="2144" vertical-scroll-proportion="-33.42857" vertical-offset="1692" max-vertical-offset="4680">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="35" selection-start="2144" selection-end="2144" vertical-scroll-proportion="-33.42857" vertical-offset="1692" max-vertical-offset="4680">
+        <state line="20" column="3" selection-start="496" selection-end="496" vertical-scroll-proportion="-14.142858" vertical-offset="0" max-vertical-offset="936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/_bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="982">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/RegistrationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="55" selection-start="401" selection-end="401" vertical-scroll-proportion="-22.5" vertical-offset="198" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Pages/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="19" selection-start="47" selection-end="47" vertical-scroll-proportion="0.03773585" vertical-offset="0" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="139" selection-end="139" vertical-scroll-proportion="-12.857142" vertical-offset="0" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/registration/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="7" selection-start="690" selection-end="690" vertical-scroll-proportion="-27.642857" vertical-offset="18" max-vertical-offset="1296">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/functional/SignUpCept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="547" selection-end="547" vertical-scroll-proportion="-28.285715" vertical-offset="0" max-vertical-offset="1044">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/functional.suite.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="59" selection-start="313" selection-end="313" vertical-scroll-proportion="0.29327902" vertical-offset="0" max-vertical-offset="982">
           <folding />
         </state>
       </provider>
