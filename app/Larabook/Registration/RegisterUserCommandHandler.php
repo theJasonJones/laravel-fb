@@ -11,8 +11,11 @@ namespace Larabook\Registration;
 use Laracasts\Commander\CommandHandler;
 use Larabook\Users\UserRepository;
 use Larabook\Users\User;
+use Laracasts\Commander\Events\DispatchableTrait;
 
 class RegisterUserCommandHandler implements CommandHandler{
+
+    use DispatchableTrait;
     protected $repository;
 
     function __construct(UserRepository $repository)
@@ -28,6 +31,9 @@ class RegisterUserCommandHandler implements CommandHandler{
         );
 
         $this->repository->save($user);
+
+        $this->dispatchEventsFor($user);
+
         return $user;
     }
 } 
