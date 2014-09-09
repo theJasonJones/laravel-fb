@@ -4,11 +4,13 @@ use Illuminate\Auth\UserTrait;
 use Illuminate\Auth\UserInterface;
 use Illuminate\Auth\Reminders\RemindableTrait;
 use Illuminate\Auth\Reminders\RemindableInterface;
+use Larabook\Registration\Events\UserRegistered;
+use Laracasts\Commander\Events\EventGenerator;
 use Eloquent, Hash;
 
 class User extends Eloquent implements UserInterface, RemindableInterface {
 
-	use UserTrait, RemindableTrait;
+	use UserTrait, RemindableTrait, EventGenerator;
     protected $fillable = ['username', 'email', 'password'];
 
     //Passwords must always be hashed
@@ -36,6 +38,8 @@ class User extends Eloquent implements UserInterface, RemindableInterface {
         $user = new static(compact('username','email', 'password'));
 
         //raise a new event
+        $user->raise(new UserRegistered($user));
+
         return $user;
     }
 
