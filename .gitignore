@@ -7,6 +7,7 @@ composer.lock
 .env.php
 .DS_Store
 workspace.xml
+.idea/
 Thumbs.db
 
 tests/_output/*
